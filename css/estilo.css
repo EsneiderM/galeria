@@ -1,0 +1,180 @@
+*{margin: 0;padding: 0;}
+body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.9;
+}
+
+
+
+#contenedor1{
+    
+    background-image: url(../img/rok.jpg);
+    background-position: center;
+    background-size: cover;
+    background-position:bottom;
+    height: 600px;
+    background-attachment:fixed;
+    justify-content: space-evenly;
+    
+}
+
+#contenedor2{
+    background-color: aqua;
+    height: 300px;
+    background-image: url(../img/holi2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: space-evenly;
+    
+    
+}
+
+#contenedor3{
+ background-image: url(../img/pak.jpeg);
+ background-position: center;
+ background-attachment: fixed;
+ justify-content: space-evenly;
+ 
+ 
+}
+
+.bloques{
+    background-color: azure;
+    
+    width: 200px;
+    height: 150px;
+    margin-left: 8%;
+    margin-top: 8%;
+    display: inline-flex;
+    position: relative;
+    
+
+    
+
+
+}
+
+.text1{
+    color: rgb(219, 215, 250);
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative; left: 100%;
+    top: 1200%;
+    padding-bottom: 20%
+    
+}
+
+p{
+    color: white;
+}
+
+
+
+#cabeza{
+    position: absolute;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    width: 30%;
+    height: 10px;
+    padding-left: 50px;
+    margin-top: 10%;
+    align-content: center;
+}
+
+.text1~a{
+    margin-bottom: 50%; color:aqua;
+    border-bottom: 50%; color: blueviolet;
+    
+    
+}
+
+
+
+#im2{
+    display: inline-flex;
+    background-image: url(../img/bra.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 80%;
+    align-items: center;
+    margin-top: 3%;
+    margin-left: 8%;
+    
+    
+    
+
+  
+    
+    
+}
+
+#text2{
+    width: 40%;
+    padding-top: 8%;
+    display: inline-block;
+    color: antiquewhite;
+    padding-left: 20px;
+    
+   
+}
+
+.tx2{
+    margin-top: 10%;
+    text-decoration: none;
+}
+
+.a{
+    margin-top: 5%;
+}
+
+#bloque1{
+    background-image: url(../img/fond1.png);
+    background-position: center;
+    background-attachment: fixed;
+    
+   
+}
+
+#bloque2{
+    background-image: url(../img/fond1.png);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#bloque3{
+    background-image: url(../img/fond1.png);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#bloque4{
+    background-image: url(../img/fond1.png);
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+
+#bh2{
+    color: antiquewhite;
+    text-align: center;
+    
+}
+
+.p2{
+    text-align: center;
+    padding: 10px 30px;
+    color: aliceblue;
+    font-size: 12px;
+}
+
+.bh3{
+    text-align: center;
+    color: antiquewhite;
+    padding: 5px ;
+}
